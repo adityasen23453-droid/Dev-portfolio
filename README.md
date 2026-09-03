@@ -1,6 +1,6 @@
 # 🚀 DevPortfolio - Interactive Full-Stack Developer Portfolio
 
-A modern, responsive, and accessible developer portfolio built with pure **HTML5**, **Vanilla CSS3**, and **JavaScript (ES6+)**. 1 **.
+A modern, responsive, and accessible developer portfolio built with pure **HTML5**, **Vanilla CSS3**, and **JavaScript (ES6+)**.
 
 ---
 
