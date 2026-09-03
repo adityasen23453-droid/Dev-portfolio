@@ -53,8 +53,8 @@ git add .
 # Create initial commit
 git commit -m "feat: complete Project 1 DevPortfolio with HTML5, CSS3, JS, and responsive layout"
 
-# Link remote GitHub repository (replace with your repo URL)
-git remote add origin https://github.com/your-username/dev-portfolio.git
+# Link remote GitHub repository
+git remote set-url origin https://github.com/adityasen23453-droid/Dev-portfolio.git
 
 # Push to GitHub main branch
 git branch -M main
