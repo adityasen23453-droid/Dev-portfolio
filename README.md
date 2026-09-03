@@ -1,6 +1,6 @@
 # 🚀 DevPortfolio - Interactive Full-Stack Developer Portfolio
 
-A modern, responsive, and accessible developer portfolio built with pure **HTML5**, **Vanilla CSS3**, and **JavaScript (ES6+)**. This project serves as **Project 1 (Days 1 - 2)** of the **TCS Technical Interview Preparation Curriculum**.
+A modern, responsive, and accessible developer portfolio built with pure **HTML5**, **Vanilla CSS3**, and **JavaScript (ES6+)**. 1 **.
 
 ---
 
